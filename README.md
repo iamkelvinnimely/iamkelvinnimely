@@ -1,18 +1,20 @@
-
+<div align="center">
+  
+```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   ██╗  ██╗███████╗██╗     ██╗    ██╗██╗███╗   ██╗                            ║
-║   ██║ ██╔╝██╔════╝██║     ██║    ██║██║████╗  ██║                            ║
-║   █████╔╝ █████╗  ██║     ██║    ██║██║██╔██╗ ██║                            ║
-║   ██╔═██╗ ██╔══╝  ██║      ██║  ██╗ ██║██║ ██╚██╗                            ║
-║   ██║  ██╗███████╗███████╗ ╚██╔██╝  ██║██║ ╚████║                            ║
-║   ╚═╝  ╚═╝╚══════╝╚══════╝  ╚═╝╚╝   ╚═╝╚═╝  ╚═══╝                            ║
+║                ██╗  ██╗███████╗██╗     ██╗   ██╗██╗███╗   ██╗                ║
+║                ██║ ██╔╝██╔════╝██║     ██║   ██║██║████╗  ██║                ║
+║                █████╔╝ █████╗  ██║     ██║   ██║██║██╔██╗ ██║                ║
+║                ██╔═██╗ ██╔══╝  ██║     ╚██╗ ██╔╝██║██║╚██╗██║                ║
+║                ██║  ██╗███████╗███████╗ ╚████╔╝ ██║██║ ╚████║                ║
+║                ╚═╝  ╚═╝╚══════╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝                ║
 ║                                                                              ║
-║          🚀 SOFTWARE DEVELOPER • EDTECH BUILDER • PROBLEM SOLVER 🚀         ║
+║                  🚀 SOFTWARE DEVELOPER • EDTECH BUILDER 🚀                  ║
+║                                 🇱🇷 LIBERIA                                    ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-
-<div align="center">
+```
 
 # 👋🏾 Hey, I'm Kelvin Nimely
 
@@ -26,12 +28,10 @@
   <img src="https://img.shields.io/badge/🌐_Portfolio-iamkelvinnimely.vercel.app-111827?style=for-the-badge" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="https://github.com/">
+<a href="https://github.com/iamkelvinnimely">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-<br/><br/>
-
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=kelvinnimely&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
 
 </div>
@@ -195,13 +195,13 @@ I believe many of our biggest opportunities are hidden inside everyday problems 
 
 ## 🌐 PN Gateway
 
-**Cloud management platform for ISPs, WISPs and hotspot operators.**
+**Cloud management platform for WISPs and hotspot operators.**
 
 PN Gateway helps network operators manage routers, customers, hotspot services and network operations from a centralized platform.
 
 **Built with:**
 
-`Django` `React/Next.js` `PostgreSQL` `Redis` `Celery` `Docker` `AWS`
+`Django` `React/Vite` `PostgreSQL` `Redis` `Celery` `Docker` `AWS`
 
 ---
 
@@ -215,7 +215,7 @@ The platform focuses on bringing school management processes into one centralize
 
 **Built with:**
 
-`Django` `Django REST Framework` `PostgreSQL` `Redis` `Celery` `AWS` `S3`
+`Django` `Django REST Framework` `NextJS` `PostgreSQL` `Redis` `Celery` `AWS` `S3`
 
 ---
 
@@ -265,7 +265,7 @@ The goal is simple:
 
 <br/>
 
-I'm continuously learning and experimenting with:
+I'm continuously learning, experimenting, and building around:
 
 * 🤖 AI-powered applications
 * 🧠 LLM integrations
@@ -273,51 +273,25 @@ I'm continuously learning and experimenting with:
 * 🏗️ Scalable SaaS systems
 * 🔐 Application security
 * 🌐 Networking & infrastructure
-* 📱 Mobile-first applications
+* 📱 Mobile applications
 * 💳 African payment integrations
-
----
-
-# 🎯 My Current Focus
-
-```text
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│   BUILD                                                       │
-│   └── Turn real-world problems into useful software           │
-│                                                               │
-│   LEARN                                                       │
-│   └── Keep improving my engineering & architecture skills     │
-│                                                               │
-│   TEACH                                                       │
-│   └── Help more people understand and use technology          │
-│                                                               │
-│   EXPLORE                                                     │
-│   └── AI, Cloud, SaaS, Security & African technology          │
-│                                                               │
-│   IMPACT                                                      │
-│   └── Build technology that can actually be used              │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/kelvinnimely">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinnimely&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/iamkelvinnimely">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamkelvinnimely&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </a>
 
-<a href="https://github.com/kelvinnimely">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinnimely&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<a href="https://github.com/iamkelvinnimely">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkelvinnimely&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinnimely&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkelvinnimely&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
