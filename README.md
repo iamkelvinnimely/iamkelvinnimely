@@ -1,19 +1,19 @@
 <div align="center">
   
 ```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                ██╗  ██╗███████╗██╗     ██╗   ██╗██╗███╗   ██╗                ║
-║                ██║ ██╔╝██╔════╝██║     ██║   ██║██║████╗  ██║                ║
-║                █████╔╝ █████╗  ██║     ██║   ██║██║██╔██╗ ██║                ║
-║                ██╔═██╗ ██╔══╝  ██║     ╚██╗ ██╔╝██║██║╚██╗██║                ║
-║                ██║  ██╗███████╗███████╗ ╚████╔╝ ██║██║ ╚████║                ║
-║                ╚═╝  ╚═╝╚══════╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝                ║
-║                                                                              ║
-║                  🚀 SOFTWARE DEVELOPER • EDTECH BUILDER 🚀                  ║
-║                                 🇱🇷 LIBERIA                                    ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                       ║
+║                ██╗  ██╗███████╗██╗     ██╗   ██╗██╗███╗   ██╗                                         ║
+║                ██║ ██╔╝██╔════╝██║     ██║   ██║██║████╗  ██║                                         ║
+║                █████╔╝ █████╗  ██║     ██║   ██║██║██╔██╗ ██║                                         ║
+║                ██╔═██╗ ██╔══╝  ██║     ╚██╗ ██╔╝██║██║╚██╗██║                                         ║
+║                ██║  ██╗███████╗███████╗ ╚████╔╝ ██║██║ ╚████║                                         ║
+║                ╚═╝  ╚═╝╚══════╝╚══════╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝                                         ║
+║                                                                                                       ║
+║                  🚀 SOFTWARE DEVELOPER • EDTECH BUILDER 🚀                                           ║
+║                                 🇱🇷 LIBERIA                                                             ║
+║                                                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 # 👋🏾 Hey, I'm Kelvin Nimely
@@ -277,21 +277,41 @@ I'm continuously learning, experimenting, and building around:
 * 💳 African payment integrations
 ---
 
+# My Achievements
+  
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=iamkelvinnimely&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+  </a>
+
+<br/>
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/iamkelvinnimely">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamkelvinnimely&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</a>
+<!-- GitHub Stats + Custom Streak in ONE ROW -->
+  <a href="https://github.com/red1-for-hek">
+  <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamkelvinnimely&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </a>
+  
+  <br/>
+  
+  <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
+  <a href="https://github.com/red1-for-hek">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamkelvinnimely&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+  </a>
 
-<a href="https://github.com/iamkelvinnimely">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkelvinnimely&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</a>
-
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkelvinnimely&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<!-- Additional Stats Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamkelvinnimely&theme=tokyonight" width="95%" alt="Profile Details"/>
 
 </div>
 
@@ -349,15 +369,15 @@ And I'm just getting started.
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 
-<a href="https://github.com/kelvinnimely">
+<a href="https://github.com/iamkelvinnimely">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/iamkelvinnimely">
 <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://www.facebook.com/">
+<a href="https://www.facebook.com/iamkelvinnimely">
 <img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
